@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Disable Tab Limit - Disables the default tab limit (varies giữa devices)
